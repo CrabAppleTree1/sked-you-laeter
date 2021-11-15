@@ -1,4 +1,14 @@
 # Interview Scheduler
+  An scheduling single-page app made with React.  
+  User can appoint a student to an interviewer for each days valid booking hours if there are spots available.
+  Appointments can be edited and deleted by the user.
+
+####
+()
+####
+()
+####
+()
 
 ## Setup
 
