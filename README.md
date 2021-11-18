@@ -4,11 +4,11 @@
   Appointments can be edited and deleted by the user.
 
 ##
-!["deleting an existing appointment"](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/1.png)
+![deleting an existing appointment](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/1.png)
 ##
-![](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/2.png)
+![Booking a new appointment](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/2.png)
 ##
-![](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/3.png)
+![New appointment Reduces appointments available](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/3.png)
 
 ## Setup
 
