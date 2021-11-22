@@ -3,12 +3,12 @@
   User can appoint a student to an interviewer for each days valid booking hours if there are spots available.
   Appointments can be edited and deleted by the user.
 
-####
-()
-####
-()
-####
-()
+##
+![deleting an existing appointment](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/1.png)
+##
+![Booking a new appointment](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/2.png)
+##
+![New appointment Reduces appointments available](https://github.com/CrabAppleTree1/sked-you-laeter/blob/master/docs/3.png)
 
 ## Setup
 
