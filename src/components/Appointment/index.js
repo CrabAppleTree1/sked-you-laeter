@@ -66,8 +66,8 @@ export default function Appointment (props) {
     {mode === SAVE && <Status message='Saving...'/>}
     {mode === DELETE && <Status message='Deleting...'/>}
     {mode === CONFIRM && <Confirm message='Are you sure you would like to delete?' onCancel={() => transition(SHOW)} onConfirm={onDelete}/>}
-    {mode === ERROR_SAVE && <Error message='Could not save to database.' onClose={back}/>}
-    {mode === ERROR_DELETE && <Error message='Could not delete from database.' onClose={back}/>}
+    {mode === ERROR_SAVE && <Error message='Could not save to database.' onClose={() => transition(SHOW)}/>}
+    {mode === ERROR_DELETE && <Error message='Could not delete from database.' onClose={() => transition(SHOW)}/>}
   </article>;
 }
 
